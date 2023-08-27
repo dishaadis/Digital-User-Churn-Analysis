@@ -55,7 +55,7 @@ The analysis process carried out in this project is as follows :
 This directory contains the following files :
 
   * **Digital User Churn Dahboard.pdf** : Set of visualizations based on the master table.
-  * **Digital User Churn Report** : Reports on analysis steps, visualizations, interpretations, and recommendations.
+  * **Digital User Churn Report.pdf** : Reports on analysis steps, visualizations, interpretations, and recommendations.
 
 </p>
 
