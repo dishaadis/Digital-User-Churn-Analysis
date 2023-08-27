@@ -32,7 +32,7 @@ This directory contains the following files :
 <p align="justify">
 This directory contains the following files :
 
-  * **ERD.pgerd** : Entity Relationship Diagram (ERD) of the four tables
+  * **ERD.png** : Entity Relationship Diagram (ERD) of the four tables
   * **Master Table Query.sql** : Query to create master table and master table data exploration
   * **Master Table.csv** : the results of the formation of the master table which will be visualized
    
