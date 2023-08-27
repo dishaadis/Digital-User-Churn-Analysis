@@ -1,5 +1,5 @@
 <p align="center">
-  <h1> Digital User Churn Analyst </h1>
+  <h1> Digital User Churn Analysis </h1>
 </p>
 
 ## Project Description
